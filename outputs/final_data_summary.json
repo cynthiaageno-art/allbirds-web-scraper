@@ -1,0 +1,13 @@
+{
+  "raw_files_found": 7,
+  "unique_products_in_database": 692,
+  "observation_rows": 52178,
+  "distinct_collection_timestamps": 7,
+  "missing_price_observations": 0,
+  "available_observations": 16406,
+  "unavailable_observations": 35772,
+  "mean_price": 101.84457932461957,
+  "median_price": 105.0,
+  "minimum_price": 0.8,
+  "maximum_price": 165.0
+}
